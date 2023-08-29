@@ -5,11 +5,22 @@
 <div align="center">
   <div align="center">
   <a href="https://github.com/JefteLopes05">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefteLopes05&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=JefteLopes05&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api?username=JefteLopes05&show_icons=true"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img src="https://github-readme-stats.vercel.app/api?username=JefteLopes05&show_icons=true" />
+</picture>
     </div>
 </br>
   <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JefteLopes05&layout=compact&langs_count=7&theme=dark"/>
+
+    
 </div>
 </div>
 </br>
