@@ -5,7 +5,8 @@
 <div align="center">
   <div align="center">
   <a href="https://github.com/JefteLopes05">
-    <picture>
+    
+  <picture>
       <source
         srcset="https://github-readme-stats.vercel.app/api?username=JefteLopes05&show_icons=true&theme=tokyonight"
         media="(prefers-color-scheme: dark)"
